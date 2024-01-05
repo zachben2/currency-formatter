@@ -577,7 +577,7 @@
   },
   "IQD": {
     "code": "IQD",
-    "symbol": "د.ع.‏",
+    "symbol": "د.ع",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
